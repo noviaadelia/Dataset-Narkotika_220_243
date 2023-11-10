@@ -5,27 +5,27 @@ Dataset ini disusun untuk mendukung tugas yang memerlukan analisis atau pemahama
 
 ## Struktur Dataset
 Setiap dokumen putusan dalam dataset ini terdiri dari beberapa bagian utama, yang meliputi:
-- Kepala Putusan
+- Kepala Putusan,
   Bagian ini mencakup informasi utama seperti judul putusan, nomor putusan, dan tanggal putusan.
-- Identitas Tergugat
+- Identitas Tergugat,
   Bagian ini memberikan informasi terkait identitas tergugat, seperti nama dan informasi pribadi terkait.
-- Riwayat Penahanan:
+- Riwayat Penahanan,
   Menyajikan detail mengenai riwayat penahanan terdakwa, termasuk tanggal penahanan dan alasan penahanan.
-- Riwayat Perkara:
+- Riwayat Perkara,
   Bagian ini memuat kronologi perkembangan perkara dari awal hingga putusan.
-- Riwayat Tuntutan:
+- Riwayat Tuntutan,
   Berisi informasi tentang tuntutan yang diajukan oleh jaksa penuntut umum.
-- Riwayat Dakwaan:
+- Riwayat Dakwaan,
   Merincikan isi dakwaan yang diajukan oleh jaksa penuntut umum.
-- Fakta:
+- Fakta,
   Mendeskripsikan fakta-fakta yang menjadi dasar dalam pengadilan.
-- Fakta Hukum:
+- Fakta Hukum,
   Memberikan fakta-fakta hukum yang relevan dengan perkara.
-- Pertimbangan Hukum:
+- Pertimbangan Hukum,
   Bagian ini memuat pertimbangan hukum yang menjadi dasar untuk mengambil keputusan.
-- Amar Putusan:
-   Menguraikan amar putusan yang dihasilkan oleh pengadilan.
-- Penutup:
+- Amar Putusan,
+  Menguraikan amar putusan yang dihasilkan oleh pengadilan.
+- Penutup,
   Menyajikan penutup atau ringkasan dari seluruh putusan pengadilan.
 
 # Referensi
